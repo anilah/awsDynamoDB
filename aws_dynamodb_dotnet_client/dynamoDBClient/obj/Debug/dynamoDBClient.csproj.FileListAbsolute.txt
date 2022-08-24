@@ -1,0 +1,14 @@
+C:\projects\awsDynamoDB\aws_dynamodb_dotnet_client\dynamoDBClient\bin\Debug\dynamoDBClient.exe.config
+C:\projects\awsDynamoDB\aws_dynamodb_dotnet_client\dynamoDBClient\bin\Debug\dynamoDBClient.exe
+C:\projects\awsDynamoDB\aws_dynamodb_dotnet_client\dynamoDBClient\bin\Debug\dynamoDBClient.pdb
+C:\projects\awsDynamoDB\aws_dynamodb_dotnet_client\dynamoDBClient\bin\Debug\AWSSDK.Core.dll
+C:\projects\awsDynamoDB\aws_dynamodb_dotnet_client\dynamoDBClient\bin\Debug\AWSSDK.DynamoDBv2.dll
+C:\projects\awsDynamoDB\aws_dynamodb_dotnet_client\dynamoDBClient\bin\Debug\AWSSDK.Core.pdb
+C:\projects\awsDynamoDB\aws_dynamodb_dotnet_client\dynamoDBClient\bin\Debug\AWSSDK.Core.xml
+C:\projects\awsDynamoDB\aws_dynamodb_dotnet_client\dynamoDBClient\bin\Debug\AWSSDK.DynamoDBv2.pdb
+C:\projects\awsDynamoDB\aws_dynamodb_dotnet_client\dynamoDBClient\bin\Debug\AWSSDK.DynamoDBv2.xml
+C:\projects\awsDynamoDB\aws_dynamodb_dotnet_client\dynamoDBClient\obj\Debug\dynamoDBClient.csprojAssemblyReference.cache
+C:\projects\awsDynamoDB\aws_dynamodb_dotnet_client\dynamoDBClient\obj\Debug\dynamoDBClient.csproj.CoreCompileInputs.cache
+C:\projects\awsDynamoDB\aws_dynamodb_dotnet_client\dynamoDBClient\obj\Debug\dynamoDBClient.csproj.CopyComplete
+C:\projects\awsDynamoDB\aws_dynamodb_dotnet_client\dynamoDBClient\obj\Debug\dynamoDBClient.exe
+C:\projects\awsDynamoDB\aws_dynamodb_dotnet_client\dynamoDBClient\obj\Debug\dynamoDBClient.pdb
